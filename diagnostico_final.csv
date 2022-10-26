@@ -1,0 +1,14 @@
+edad;genero;estrato;nestudio;marcacel;gamacel;P1;P2;P3;P4;P5;P6;P7;P8;P9;P10;Notafinal
+74;Masculino;1;Universitario;Huawei;Gama alta;1;1;1;1;1;1;1;0;1;0;8
+63;Masculino;2;Posgrado;Xiaomi;Gama media;1;1;1;1;1;1;1;1;1;0;9
+64;Femenino;3;Posgrado;Huawei;Gama media;1;0;1;1;1;0;1;1;1;1;8
+67;Masculino;3;Universitario;Sansung;No identifico la gama de mi celular;0;0;1;0;1;0;1;1;1;1;6
+79;Masculino;3;Secundaria (6 - 9 grado);Samsung;Gama media;0;0;1;1;1;0;1;1;1;1;7
+87;Masculino;3;Universitario;Samsung;Gama alta;1;1;0;1;1;0;1;1;1;1;8
+84;Masculino;1;Posgrado;Motorola;Gama alta;1;1;1;1;1;1;1;1;1;0;9
+46;Femenino;2;Técnico;Motorola;Gama media;1;1;1;1;1;1;1;1;1;0;9
+61;Femenino;2;Media académica (Bachiller);Xiaomi;Gama media;1;1;1;0;1;1;1;1;1;0;8
+37;Femenino;2;Universitario;Samsung;Gama baja;1;1;0;0;1;1;1;1;1;1;8
+69;Masculino;2;Secundaria (6 - 9 grado);Samsung;Gama media;1;1;1;0;1;1;1;1;1;1;9
+71;Masculino;3;Técnico;Nokia;Gama alta;1;1;0;1;1;1;1;1;1;0;8
+67;Masculino;2;Universitario;Huawei;No identifico la gama de mi celular;1;1;0;1;1;1;1;1;1;1;9
